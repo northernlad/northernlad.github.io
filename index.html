@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
-    <title>Simple markers</title>
+    <title>KML Layers</title>
     <style>
       html, body {
         height: 100%;
@@ -20,17 +20,14 @@
     <script>
 
       function initMap() {
-        var myLatLng = {lat: -25.363, lng: 131.044};
-
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: myLatLng
+          zoom: 11,
+          center: {lat: 41.876, lng: -87.624}
         });
 
-        var marker = new google.maps.Marker({
-          position: myLatLng,
-          map: map,
-          title: 'Hello World!'
+        var ctaLayer = new google.maps.KmlLayer({
+          url: 'http://googlemaps.github.io/js-v2-samples/ggeoxml/cta.kml',
+          map: map
         });
       }
     </script>
