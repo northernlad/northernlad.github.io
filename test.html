@@ -18,6 +18,7 @@
   <body>
     <div id="map"></div>
     <script>
+    
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 13,
@@ -28,14 +29,6 @@ function initMap() {
     suppressInfoWindows: false,
     map: map
   });
-  kmlLayer.addListener('click', function(kmlEvent) {
-    var text = kmlEvent.featureData.description;
-    showInContentWindow(text);
-  });
-  function showInContentWindow(text) {
-    var sidediv = document.getElementById('content-window');
-    sidediv.innerHTML = text;
-  }
 }
     </script>
     <script async defer
