@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
-    <title>KML Layers</title>
+    <title>KML feature details</title>
     <style>
       html, body {
         height: 100%;
@@ -11,37 +11,48 @@
         padding: 0;
       }
       #map {
+        float: left;
         height: 100%;
+        width: 79%;
+      }
+      #content-window {
+        float: left;
+        font-family: 'Roboto','sans-serif';
+        height: 100%;
+        line-height: 30px;
+        padding-left: 10px;
+        width: 19%;
       }
     </style>
   </head>
   <body>
     <div id="map"></div>
+    <div id="content-window"></div>
     <script>
 
-function initMap() {
-  var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 12,
-    center: {lat: 37.06, lng: -95.68}
-  });
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: {lat: 37.06, lng: -95.68}
+        });
 
-  var kmlLayer = new google.maps.KmlLayer({
-    url: 'http://kml-samples.googlecode.com/svn/trunk/kml/Placemark/placemark.kml',
-    suppressInfoWindows: true,
-    map: map
-  });
+        var kmlLayer = new google.maps.KmlLayer({
+          url: 'http://kml-samples.googlecode.com/svn/trunk/kml/Placemark/placemark.kml',
+          suppressInfoWindows: true,
+          map: map
+        });
 
-  kmlLayer.addListener('click', function(kmlEvent) {
-    var text = kmlEvent.featureData.description;
-    showInContentWindow(text);
-  });
+        kmlLayer.addListener('click', function(kmlEvent) {
+          var text = kmlEvent.featureData.description;
+          showInContentWindow(text);
+        });
 
-  function showInContentWindow(text) {
-    var sidediv = document.getElementById('content-window');
-    sidediv.innerHTML = text;
-  }
-}    
-</script>
+        function showInContentWindow(text) {
+          var sidediv = document.getElementById('content-window');
+          sidediv.innerHTML = text;
+        }
+      }
+    </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDB_IPkR4jl-p5E7cWLOD62TPb_W9Z9cc8&callback=initMap">
     </script>
