@@ -19,32 +19,28 @@
     <div id="map"></div>
     <script>
 
-  function initMap() {
-        var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 40.5853, lng: -105.0844},
-          zoom: 15
-        });
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 12,
+    center: {lat: 37.06, lng: -95.68}
+  });
 
-        var infowindow = new google.maps.InfoWindow();
-        var service = new google.maps.places.PlacesService(map);
+  var kmlLayer = new google.maps.KmlLayer({
+    url: 'http://kml-samples.googlecode.com/svn/trunk/kml/Placemark/placemark.kml',
+    suppressInfoWindows: true,
+    map: map
+  });
 
-        service.getDetails({
-          placeId: 'ChIJ7UF7vfVKaYcRd4gNpVzaqxk'
-        }, function(place, status) {
-          if (status === google.maps.places.PlacesServiceStatus.OK) {
-            var marker = new google.maps.Marker({
-              map: map,
-              position: place.geometry.location
-            });
-            google.maps.event.addListener(marker, 'click', function() {
-              infowindow.setContent('<div><strong>' + place.name + '</strong><br>' +
-                'Place ID: ' + place.place_id + '<br>' +
-                place.formatted_address + '</div>');
-              infowindow.open(map, this);
-            });
-          }
-        });
-      }
+  kmlLayer.addListener('click', function(kmlEvent) {
+    var text = kmlEvent.featureData.description;
+    showInContentWindow(text);
+  });
+
+  function showInContentWindow(text) {
+    var sidediv = document.getElementById('content-window');
+    sidediv.innerHTML = text;
+  }
+}
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key= AIzaSyDB_IPkR4jl-p5E7cWLOD62TPb_W9Z9cc8&libraries=places&callback=initMap">
