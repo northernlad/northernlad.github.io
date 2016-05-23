@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FoCoBeerAlert Map</name>
+		<Style id='icon'>
+			<IconStyle>
+				<Icon>
+				<href>http://icons.iconarchive.com/icons/flat-icons.com/flat/512/Beer-icon.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+		<Style id='location-balloon-style'>
+			<BalloonStyle>
+				<text><![CDATA [
+					Beer Quality Index (Out of 5): $[Rating]<br/>
+					$[geDirections]
+				]]></text>
+			</BalloonStyle>
+		</Style>
+		<Folder>
+		<name>Location Map</name>
+			<Placemark>
+				<name><![CDATA[Pour Brothers]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-105.0769351,40.58832810.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Forge Publick House]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Tap n Handle]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Choice City Butcher & Deli]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Three Four Beer Co]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Colorado Room]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Black Bottle]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Road 34]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Funkwerks Brewery Taproom]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Pinball Jones]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Mayor of Old Town]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Equinox Brewing Taproom]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[William Oliver's Publick House]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Taps Sports Bar and Grill]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Moe's Original BBQ]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Odell Brewing Tap Room]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Dungeons & Drafts]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Snowbank Brewing]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Horse & Dragon Brewing Company]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[McClellan's Brewing Company]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Zwei Brewing]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Rally King Brewing]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Jessup Farm Barrel House]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The New Belgium Brewery Tasting Room]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Mainline]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Moot House]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Old Chicago]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Bar Louie]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-105.072636,40.54233970.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[The Welsh Rabbit Cheese Bistro]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>None,None0.0</coordinates>
+					</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Otto Pint]]></name>
+				<styleUrl>#icon</styleUrl>
+					<ExtendedData>
+						<Data name = 'Rating'>
+							<value>4.5</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>-105.0597766,40.52152240.0</coordinates>
+					</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
