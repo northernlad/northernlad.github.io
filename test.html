@@ -20,12 +20,12 @@
     <script>
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 12,
+    zoom: 13,
     center: {lat: 40.579445, lng: -105.078717}
   });
   var kmlLayer = new google.maps.KmlLayer({
-    url: 'northernlad.github.io/FoCoBeerAlert.kml',
-    suppressInfoWindows: true,
+    url: 'http://northernlad.github.io/FoCoBeerAlert.kml',
+    suppressInfoWindows: false,
     map: map
   });
   kmlLayer.addListener('click', function(kmlEvent) {
