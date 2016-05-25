@@ -24,10 +24,15 @@ function initMap() {
     zoom: 14,
     center: {lat: 40.579445, lng: -105.078717}
   });
-  var kmlLayer = new google.maps.KmlLayer({
+  var kml = new google.maps.KmlLayer({
     url: 'http://northernlad.github.io/BoulderBeerAlert.kml',
     suppressInfoWindows: false,
     map: map
+  });
+  
+  google.maps.event.addListener(kml, 'defaultviewport_changed', function() {
+   var bounds = kml.getDefaultViewport();
+   map.setCenter(bounds.getCenter());
   });
 }
     </script>
