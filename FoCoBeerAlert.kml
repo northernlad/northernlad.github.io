@@ -1,695 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="feat_125">
-        <Style id="stylesel_120">
-            <IconStyle id="substyle_120">
+    <Document id="feat_43">
+        <Style id="stylesel_40">
+            <IconStyle id="substyle_40">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_120">
+                <Icon id="link_40">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 2151496]]>                </text>
+<![CDATA[Choice City Butcher & Deli <br><br> Beer Quality Index = 4.02<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_121">
-            <IconStyle id="substyle_121">
+        <Style id="stylesel_41">
+            <IconStyle id="substyle_41">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_121">
+                <Icon id="link_41">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 74769]]>                </text>
+<![CDATA[Tap n Handle <br><br> Beer Quality Index = 3.97<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_122">
-            <IconStyle id="substyle_122">
+        <Style id="stylesel_42">
+            <IconStyle id="substyle_42">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_122">
+                <Icon id="link_42">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 171380]]>                </text>
+<![CDATA[Three Four Beer Co <br><br> Beer Quality Index = 3.96<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_123">
-            <IconStyle id="substyle_123">
+        <Style id="stylesel_43">
+            <IconStyle id="substyle_43">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_123">
+                <Icon id="link_43">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 29173]]>                </text>
+<![CDATA[The Funkwerks Brewery Taproom <br><br> Beer Quality Index = 3.93<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_124">
-            <IconStyle id="substyle_124">
+        <Style id="stylesel_44">
+            <IconStyle id="substyle_44">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_124">
+                <Icon id="link_44">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 3844763]]>                </text>
+<![CDATA[The Mayor of Old Town <br><br> Beer Quality Index = 3.9<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_125">
-            <IconStyle id="substyle_125">
+        <Style id="stylesel_45">
+            <IconStyle id="substyle_45">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_125">
+                <Icon id="link_45">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 1227869]]>                </text>
+<![CDATA[The Jessup Farm Barrel House <br><br> Beer Quality Index = 3.86<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_126">
-            <IconStyle id="substyle_126">
+        <Style id="stylesel_46">
+            <IconStyle id="substyle_46">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_126">
+                <Icon id="link_46">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 489987]]>                </text>
+<![CDATA[The Forge Publick House <br><br> Beer Quality Index = 3.85<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_127">
-            <IconStyle id="substyle_127">
+        <Style id="stylesel_47">
+            <IconStyle id="substyle_47">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_127">
+                <Icon id="link_47">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 22105]]>                </text>
+<![CDATA[The Moot House <br><br> Beer Quality Index = 3.85<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_128">
-            <IconStyle id="substyle_128">
+        <Style id="stylesel_48">
+            <IconStyle id="substyle_48">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_128">
+                <Icon id="link_48">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 28487]]>                </text>
+<![CDATA[The Odell Brewing Tap Room <br><br> Beer Quality Index = 3.84<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
-        <Style id="stylesel_129">
-            <IconStyle id="substyle_129">
+        <Style id="stylesel_49">
+            <IconStyle id="substyle_49">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_129">
+                <Icon id="link_49">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 139364]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_130">
-            <IconStyle id="substyle_130">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_130">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 71662]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_131">
-            <IconStyle id="substyle_131">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_131">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 19995]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_132">
-            <IconStyle id="substyle_132">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_132">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 652852]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_133">
-            <IconStyle id="substyle_133">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_133">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 33092]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_134">
-            <IconStyle id="substyle_134">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_134">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 2026]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_135">
-            <IconStyle id="substyle_135">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_135">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 16769]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_136">
-            <IconStyle id="substyle_136">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_136">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 3039338]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_137">
-            <IconStyle id="substyle_137">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_137">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 2000616]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_138">
-            <IconStyle id="substyle_138">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_138">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 1540738]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_139">
-            <IconStyle id="substyle_139">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_139">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 3888635]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_140">
-            <IconStyle id="substyle_140">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_140">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 1994993]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_141">
-            <IconStyle id="substyle_141">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_141">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 3125431]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_142">
-            <IconStyle id="substyle_142">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_142">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 3926962]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_143">
-            <IconStyle id="substyle_143">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_143">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 2836]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_144">
-            <IconStyle id="substyle_144">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_144">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 913831]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_145">
-            <IconStyle id="substyle_145">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_145">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 171002]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_146">
-            <IconStyle id="substyle_146">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_146">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 12846]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_147">
-            <IconStyle id="substyle_147">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_147">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 3921697]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_148">
-            <IconStyle id="substyle_148">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_148">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 1443361]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_149">
-            <IconStyle id="substyle_149">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_149">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Bar Name <br> Beer Quality Index = 4452396]]>                </text>
+<![CDATA[The Mainline <br><br> Beer Quality Index = 3.83<br><br>(out of 5)]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
         <name>FoCoBeerAlert</name>
-        <Placemark id="feat_126">
-            <name>
-<![CDATA[Pour Brothers]]>            </name>
-            <styleUrl>#stylesel_120</styleUrl>
-            <Point id="geom_120">
-                <coordinates>-105.074689,40.588337,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_127">
-            <name>
-<![CDATA[The Forge Publick House]]>            </name>
-            <styleUrl>#stylesel_121</styleUrl>
-            <Point id="geom_121">
-                <coordinates>-105.075502,40.588924,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_128">
-            <name>
-<![CDATA[Tap n Handle]]>            </name>
-            <styleUrl>#stylesel_122</styleUrl>
-            <Point id="geom_122">
-                <coordinates>-105.077442,40.583748,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_129">
+        <Placemark id="feat_44">
             <name>
 <![CDATA[Choice City Butcher & Deli]]>            </name>
-            <styleUrl>#stylesel_123</styleUrl>
-            <Point id="geom_123">
+            <styleUrl>#stylesel_40</styleUrl>
+            <Point id="geom_40">
                 <coordinates>-105.077669,40.584401,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_130">
+        <Placemark id="feat_45">
+            <name>
+<![CDATA[Tap n Handle]]>            </name>
+            <styleUrl>#stylesel_41</styleUrl>
+            <Point id="geom_41">
+                <coordinates>-105.077442,40.583748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
             <name>
 <![CDATA[Three Four Beer Co]]>            </name>
-            <styleUrl>#stylesel_124</styleUrl>
-            <Point id="geom_124">
+            <styleUrl>#stylesel_42</styleUrl>
+            <Point id="geom_42">
                 <coordinates>-105.096589,40.575098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_131">
-            <name>
-<![CDATA[The Colorado Room]]>            </name>
-            <styleUrl>#stylesel_125</styleUrl>
-            <Point id="geom_125">
-                <coordinates>-105.07684,40.578547,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_132">
-            <name>
-<![CDATA[Black Bottle]]>            </name>
-            <styleUrl>#stylesel_126</styleUrl>
-            <Point id="geom_126">
-                <coordinates>-105.078642,40.566405,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_133">
-            <name>
-<![CDATA[Road 34]]>            </name>
-            <styleUrl>#stylesel_127</styleUrl>
-            <Point id="geom_127">
-                <coordinates>-105.098319,40.574459,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_134">
+        <Placemark id="feat_47">
             <name>
 <![CDATA[The Funkwerks Brewery Taproom]]>            </name>
-            <styleUrl>#stylesel_128</styleUrl>
-            <Point id="geom_128">
+            <styleUrl>#stylesel_43</styleUrl>
+            <Point id="geom_43">
                 <coordinates>-105.042328,40.583228,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_135">
-            <name>
-<![CDATA[Pinball Jones]]>            </name>
-            <styleUrl>#stylesel_129</styleUrl>
-            <Point id="geom_129">
-                <coordinates>-105.076509,40.587296,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_136">
+        <Placemark id="feat_48">
             <name>
 <![CDATA[The Mayor of Old Town]]>            </name>
-            <styleUrl>#stylesel_130</styleUrl>
-            <Point id="geom_130">
+            <styleUrl>#stylesel_44</styleUrl>
+            <Point id="geom_44">
                 <coordinates>-105.0787,40.578904,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_137">
-            <name>
-<![CDATA[The Equinox Brewing Taproom]]>            </name>
-            <styleUrl>#stylesel_131</styleUrl>
-            <Point id="geom_131">
-                <coordinates>-105.075704,40.586337,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_138">
-            <name>
-<![CDATA[William Oliver's Publick House]]>            </name>
-            <styleUrl>#stylesel_132</styleUrl>
-            <Point id="geom_132">
-                <coordinates>-105.037136,40.551716,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_139">
-            <name>
-<![CDATA[Taps Sports Bar and Grill]]>            </name>
-            <styleUrl>#stylesel_133</styleUrl>
-            <Point id="geom_133">
-                <coordinates>-105.075698,40.531666,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_140">
-            <name>
-<![CDATA[Moe's Original BBQ]]>            </name>
-            <styleUrl>#stylesel_134</styleUrl>
-            <Point id="geom_134">
-                <coordinates>-105.077268,40.588634,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_141">
-            <name>
-<![CDATA[The Odell Brewing Tap Room]]>            </name>
-            <styleUrl>#stylesel_135</styleUrl>
-            <Point id="geom_135">
-                <coordinates>-105.063188,40.589121,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_142">
-            <name>
-<![CDATA[Dungeons & Drafts]]>            </name>
-            <styleUrl>#stylesel_136</styleUrl>
-            <Point id="geom_136">
-                <coordinates>-105.056887,40.566207,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_143">
-            <name>
-<![CDATA[Snowbank Brewing]]>            </name>
-            <styleUrl>#stylesel_137</styleUrl>
-            <Point id="geom_137">
-                <coordinates>-105.058328,40.589929,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_144">
-            <name>
-<![CDATA[Horse & Dragon Brewing Company]]>            </name>
-            <styleUrl>#stylesel_138</styleUrl>
-            <Point id="geom_138">
-                <coordinates>-105.045597,40.58968,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_145">
-            <name>
-<![CDATA[McClellan's Brewing Company]]>            </name>
-            <styleUrl>#stylesel_139</styleUrl>
-            <Point id="geom_139">
-                <coordinates>-105.115376,40.572807,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_146">
-            <name>
-<![CDATA[Zwei Brewing]]>            </name>
-            <styleUrl>#stylesel_140</styleUrl>
-            <Point id="geom_140">
-                <coordinates>-105.078347,40.522731,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_147">
-            <name>
-<![CDATA[Rally King Brewing]]>            </name>
-            <styleUrl>#stylesel_141</styleUrl>
-            <Point id="geom_141">
-                <coordinates>-105.056895,40.565897,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_148">
+        <Placemark id="feat_49">
             <name>
 <![CDATA[The Jessup Farm Barrel House]]>            </name>
-            <styleUrl>#stylesel_142</styleUrl>
-            <Point id="geom_142">
+            <styleUrl>#stylesel_45</styleUrl>
+            <Point id="geom_45">
                 <coordinates>-105.037924,40.562152,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_149">
+        <Placemark id="feat_50">
             <name>
-<![CDATA[The New Belgium Brewery Tasting Room]]>            </name>
-            <styleUrl>#stylesel_143</styleUrl>
-            <Point id="geom_143">
-                <coordinates>-105.068676,40.593136,0.0</coordinates>
+<![CDATA[The Forge Publick House]]>            </name>
+            <styleUrl>#stylesel_46</styleUrl>
+            <Point id="geom_46">
+                <coordinates>-105.075502,40.588924,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_150">
-            <name>
-<![CDATA[The Mainline]]>            </name>
-            <styleUrl>#stylesel_144</styleUrl>
-            <Point id="geom_144">
-                <coordinates>-105.077232,40.586441,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_151">
+        <Placemark id="feat_51">
             <name>
 <![CDATA[The Moot House]]>            </name>
-            <styleUrl>#stylesel_145</styleUrl>
-            <Point id="geom_145">
+            <styleUrl>#stylesel_47</styleUrl>
+            <Point id="geom_47">
                 <coordinates>-105.076505,40.551135,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_152">
+        <Placemark id="feat_52">
             <name>
-<![CDATA[Old Chicago]]>            </name>
-            <styleUrl>#stylesel_146</styleUrl>
-            <Point id="geom_146">
-                <coordinates>-105.077243,40.586056,0.0</coordinates>
+<![CDATA[The Odell Brewing Tap Room]]>            </name>
+            <styleUrl>#stylesel_48</styleUrl>
+            <Point id="geom_48">
+                <coordinates>-105.063188,40.589121,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_153">
+        <Placemark id="feat_53">
             <name>
-<![CDATA[Bar Louie]]>            </name>
-            <styleUrl>#stylesel_147</styleUrl>
-            <Point id="geom_147">
-                <coordinates>-105.072636,40.5423397,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_154">
-            <name>
-<![CDATA[The Welsh Rabbit Cheese Bistro]]>            </name>
-            <styleUrl>#stylesel_148</styleUrl>
-            <Point id="geom_148">
-                <coordinates>-105.076093,40.588713,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_155">
-            <name>
-<![CDATA[Otto Pint]]>            </name>
-            <styleUrl>#stylesel_149</styleUrl>
-            <Point id="geom_149">
-                <coordinates>-105.0597766,40.5215224,0.0</coordinates>
+<![CDATA[The Mainline]]>            </name>
+            <styleUrl>#stylesel_49</styleUrl>
+            <Point id="geom_49">
+                <coordinates>-105.077232,40.586441,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
