@@ -1,235 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="feat_43">
-        <Style id="stylesel_40">
-            <IconStyle id="substyle_40">
+    <Document id="feat_816">
+        <Style id="stylesel_235">
+            <IconStyle id="substyle_235">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_40">
+                <Icon id="link_235">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[Choice City Butcher & Deli <br><br> Beer Quality Index = 4.02<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_41">
-            <IconStyle id="substyle_41">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_41">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Tap n Handle <br><br> Beer Quality Index = 3.97<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_42">
-            <IconStyle id="substyle_42">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_42">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[Three Four Beer Co <br><br> Beer Quality Index = 3.96<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_43">
-            <IconStyle id="substyle_43">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_43">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Funkwerks Brewery Taproom <br><br> Beer Quality Index = 3.93<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_44">
-            <IconStyle id="substyle_44">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_44">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Mayor of Old Town <br><br> Beer Quality Index = 3.9<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_45">
-            <IconStyle id="substyle_45">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_45">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Jessup Farm Barrel House <br><br> Beer Quality Index = 3.86<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_46">
-            <IconStyle id="substyle_46">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_46">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Forge Publick House <br><br> Beer Quality Index = 3.85<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_47">
-            <IconStyle id="substyle_47">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_47">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Moot House <br><br> Beer Quality Index = 3.85<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_48">
-            <IconStyle id="substyle_48">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_48">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Odell Brewing Tap Room <br><br> Beer Quality Index = 3.84<br><br>(out of 5)]]>                </text>
-                <displayMode>default</displayMode>
-            </BalloonStyle>
-        </Style>
-        <Style id="stylesel_49">
-            <IconStyle id="substyle_49">
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-                <heading>0</heading>
-                <Icon id="link_49">
-                    <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
-                </Icon>
-            </IconStyle>
-            <BalloonStyle>
-                <text>
-<![CDATA[The Mainline <br><br> Beer Quality Index = 3.83<br><br>(out of 5)]]>                </text>
+<![CDATA[ $[name] <br><br> Beer Quality Index: $[rating] <br><br> <a href='$[directions]'>$[directions/displayName]</a> ]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
         <name>FoCoBeerAlert</name>
-        <Placemark id="feat_44">
-            <name>
-<![CDATA[Choice City Butcher & Deli]]>            </name>
-            <styleUrl>#stylesel_40</styleUrl>
-            <Point id="geom_40">
-                <coordinates>-105.077669,40.584401,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_45">
-            <name>
-<![CDATA[Tap n Handle]]>            </name>
-            <styleUrl>#stylesel_41</styleUrl>
-            <Point id="geom_41">
-                <coordinates>-105.077442,40.583748,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_46">
+        <Placemark id="feat_817">
             <name>
 <![CDATA[Three Four Beer Co]]>            </name>
-            <styleUrl>#stylesel_42</styleUrl>
-            <Point id="geom_42">
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>4.02</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.575098,-105.096589]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_736">
                 <coordinates>-105.096589,40.575098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_47">
+        <Placemark id="feat_818">
+            <name>
+<![CDATA[Choice City Butcher & Deli]]>            </name>
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.99</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.584401,-105.077669]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_737">
+                <coordinates>-105.077669,40.584401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_819">
+            <name>
+<![CDATA[Tap n Handle]]>            </name>
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.97</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.583748,-105.077442]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_738">
+                <coordinates>-105.077442,40.583748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_820">
             <name>
 <![CDATA[The Funkwerks Brewery Taproom]]>            </name>
-            <styleUrl>#stylesel_43</styleUrl>
-            <Point id="geom_43">
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.93</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.583228,-105.042328]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_739">
                 <coordinates>-105.042328,40.583228,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_48">
+        <Placemark id="feat_821">
             <name>
 <![CDATA[The Mayor of Old Town]]>            </name>
-            <styleUrl>#stylesel_44</styleUrl>
-            <Point id="geom_44">
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.89</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.578904,-105.0787]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_740">
                 <coordinates>-105.0787,40.578904,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_49">
-            <name>
-<![CDATA[The Jessup Farm Barrel House]]>            </name>
-            <styleUrl>#stylesel_45</styleUrl>
-            <Point id="geom_45">
-                <coordinates>-105.037924,40.562152,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_50">
+        <Placemark id="feat_822">
             <name>
 <![CDATA[The Forge Publick House]]>            </name>
-            <styleUrl>#stylesel_46</styleUrl>
-            <Point id="geom_46">
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.85</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.588924,-105.075502]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_741">
                 <coordinates>-105.075502,40.588924,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_51">
+        <Placemark id="feat_823">
             <name>
-<![CDATA[The Moot House]]>            </name>
-            <styleUrl>#stylesel_47</styleUrl>
-            <Point id="geom_47">
-                <coordinates>-105.076505,40.551135,0.0</coordinates>
+<![CDATA[The Jessup Farm Barrel House]]>            </name>
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.85</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.562152,-105.037924]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_742">
+                <coordinates>-105.037924,40.562152,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_52">
-            <name>
-<![CDATA[The Odell Brewing Tap Room]]>            </name>
-            <styleUrl>#stylesel_48</styleUrl>
-            <Point id="geom_48">
-                <coordinates>-105.063188,40.589121,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_53">
+        <Placemark id="feat_824">
             <name>
 <![CDATA[The Mainline]]>            </name>
-            <styleUrl>#stylesel_49</styleUrl>
-            <Point id="geom_49">
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.85</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.586441,-105.077232]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_743">
                 <coordinates>-105.077232,40.586441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_825">
+            <name>
+<![CDATA[The Colorado Room]]>            </name>
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.84</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.578547,-105.07684]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_744">
+                <coordinates>-105.07684,40.578547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_826">
+            <name>
+<![CDATA[The Odell Brewing Tap Room]]>            </name>
+            <styleUrl>#stylesel_235</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.84</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.589121,-105.063188]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_745">
+                <coordinates>-105.063188,40.589121,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
