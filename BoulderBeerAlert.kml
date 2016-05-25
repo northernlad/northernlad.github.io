@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_981">
+        <Style id="stylesel_250">
+            <IconStyle id="substyle_250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_250">
+                    <href>http://northernlad.github.io/beericon.png</href>
+                </Icon>
+            </IconStyle>
+            <BalloonStyle>
+                <text>
+<![CDATA[ <table width= '100%'> $[name] <br><br> Beer Quality Index: $[rating] (out of 5) <br><br> <a href='$[directions]'>$[directions/displayName]</a></table> ]]>                </text>
+                <displayMode>default</displayMode>
+            </BalloonStyle>
+        </Style>
+        <name>BoulderBeerAlert</name>
+        <Placemark id="feat_982">
+            <name>
+<![CDATA[Backcountry Pizza & Tap House]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>4.08</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.01493,-105.264121]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_886">
+                <coordinates>-105.264121,40.01493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_983">
+            <name>
+<![CDATA[Avery Brewing]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.99</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.062492,-105.204974]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_887">
+                <coordinates>-105.204974,40.062492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_984">
+            <name>
+<![CDATA[West End Tavern]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.91</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.016997,-105.283247]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_888">
+                <coordinates>-105.283247,40.016997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_985">
+            <name>
+<![CDATA[Rueben's Burger Bistro]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.89</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.016434,-105.27906]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_889">
+                <coordinates>-105.27906,40.016434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_986">
+            <name>
+<![CDATA[The Upslope Brewery - Flatiron Park]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.79</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.020162,-105.218171]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_890">
+                <coordinates>-105.218171,40.020162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_987">
+            <name>
+<![CDATA[The Upslope Brewery - Lee Hill]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.75</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.062856,-105.279196]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_891">
+                <coordinates>-105.279196,40.062856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_988">
+            <name>
+<![CDATA[Mountain Sun Pub & Brewery]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.72</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.019151,-105.275291]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_892">
+                <coordinates>-105.275291,40.019151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_989">
+            <name>
+<![CDATA[Southern Sun Pub & Brewery]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.71</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=39.984318,-105.249369]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_893">
+                <coordinates>-105.249369,39.984318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_990">
+            <name>
+<![CDATA[West Flanders Brewing Company]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.7</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.018046,-105.280711]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_894">
+                <coordinates>-105.280711,40.018046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_991">
+            <name>
+<![CDATA[Sanitas Brewing Company]]>            </name>
+            <styleUrl>#stylesel_250</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.68</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.02208,-105.248049]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_895">
+                <coordinates>-105.248049,40.02208,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
