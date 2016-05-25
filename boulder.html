@@ -30,15 +30,10 @@ function initMap() {
     map: map
   });
   
-  marker.addListener('click', function() {
+  kmlLayer.addListener('click', function(kmlEvent) {
     map.setZoom(17.5);
     map.setCenter(marker.getPosition());
     
-  });
-    
-  google.maps.event.addListener(kmlLayer, 'defaultviewport_changed', function() {
-   var bounds = kmlLayer.getDefaultViewport();
-   map.setCenter(bounds.getCenter());
   });
 }
     </script>
