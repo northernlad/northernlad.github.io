@@ -31,8 +31,8 @@ function initMap() {
   });
   
   kmlLayer.addListener('click', function(kmlEvent) {
-    map.setZoom(17.5);
-    map.setCenter(marker.getPosition());
+    map.setZoom(15);
+    map.setCenter(kmlEvent.getPosition());
     
   });
 }
