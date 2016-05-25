@@ -29,12 +29,6 @@ function initMap() {
     suppressInfoWindows: false,
     map: map
   });
-  
-  kmlLayer.addListener('click', function(kmlEvent) {
-    map.setZoom(15);
-    map.setCenter(kmlEvent.getPosition());
-    
-  });
 }
     </script>
     <script async defer
