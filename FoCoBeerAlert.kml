@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="feat_816">
-        <Style id="stylesel_235">
-            <IconStyle id="substyle_235">
+    <Document id="feat_904">
+        <Style id="stylesel_243">
+            <IconStyle id="substyle_243">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_235">
+                <Icon id="link_243">
                     <href>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Emoji_u1f37a.svg/2000px-Emoji_u1f37a.svg.png</href>
                 </Icon>
             </IconStyle>
             <BalloonStyle>
                 <text>
-<![CDATA[ $[name] <br><br> Beer Quality Index: $[rating] <br><br> <a href='$[directions]'>$[directions/displayName]</a> ]]>                </text>
+<![CDATA[ $[name] <br><br> Beer Quality Index: $[rating] (out of 5) <br><br> <a href='$[directions]'>$[directions/displayName]</a> ]]>                </text>
                 <displayMode>default</displayMode>
             </BalloonStyle>
         </Style>
         <name>FoCoBeerAlert</name>
-        <Placemark id="feat_817">
+        <Placemark id="feat_905">
             <name>
 <![CDATA[Three Four Beer Co]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>4.02</value>
@@ -31,14 +31,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_736">
+            <Point id="geom_816">
                 <coordinates>-105.096589,40.575098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_818">
+        <Placemark id="feat_906">
             <name>
 <![CDATA[Choice City Butcher & Deli]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.99</value>
@@ -49,14 +49,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_737">
+            <Point id="geom_817">
                 <coordinates>-105.077669,40.584401,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_819">
+        <Placemark id="feat_907">
             <name>
 <![CDATA[Tap n Handle]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.97</value>
@@ -67,14 +67,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_738">
+            <Point id="geom_818">
                 <coordinates>-105.077442,40.583748,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_820">
+        <Placemark id="feat_908">
             <name>
 <![CDATA[The Funkwerks Brewery Taproom]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.93</value>
@@ -85,14 +85,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_739">
+            <Point id="geom_819">
                 <coordinates>-105.042328,40.583228,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_821">
+        <Placemark id="feat_909">
             <name>
 <![CDATA[The Mayor of Old Town]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.89</value>
@@ -103,14 +103,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_740">
+            <Point id="geom_820">
                 <coordinates>-105.0787,40.578904,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_822">
+        <Placemark id="feat_910">
             <name>
 <![CDATA[The Forge Publick House]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.85</value>
@@ -121,14 +121,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_741">
+            <Point id="geom_821">
                 <coordinates>-105.075502,40.588924,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_823">
+        <Placemark id="feat_911">
             <name>
 <![CDATA[The Jessup Farm Barrel House]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.85</value>
@@ -139,14 +139,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_742">
+            <Point id="geom_822">
                 <coordinates>-105.037924,40.562152,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_824">
+        <Placemark id="feat_912">
             <name>
 <![CDATA[The Mainline]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.85</value>
@@ -157,14 +157,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_743">
+            <Point id="geom_823">
                 <coordinates>-105.077232,40.586441,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_825">
+        <Placemark id="feat_913">
             <name>
 <![CDATA[The Colorado Room]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.84</value>
@@ -175,14 +175,14 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_744">
+            <Point id="geom_824">
                 <coordinates>-105.07684,40.578547,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_826">
+        <Placemark id="feat_914">
             <name>
 <![CDATA[The Odell Brewing Tap Room]]>            </name>
-            <styleUrl>#stylesel_235</styleUrl>
+            <styleUrl>#stylesel_243</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.84</value>
@@ -193,7 +193,7 @@
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_745">
+            <Point id="geom_825">
                 <coordinates>-105.063188,40.589121,0.0</coordinates>
             </Point>
         </Placemark>
