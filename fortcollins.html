@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
+    <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
-    <title>Fort Collins Beer Alert Monitoring Stations</title>
+    <title>KML Layers</title>
     <style>
       html, body {
         height: 100%;
@@ -19,18 +19,17 @@
     <div id="map"></div>
     <script>
 
-function initMap() {
-  var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 12,
-  });
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 11,
+          center: {lat: 40.5853, lng: -105.0844}
+        });
 
-  var kmlLayer = new google.maps.KmlLayer({
-    url: 'northernlad.github.io/FoCoBeerAlert.kml',
-    suppressInfoWindows: false,
-    map: map
-  });
-
-}
+        var beermap_foco = new google.maps.KmlLayer({
+          url: '',
+          map: map
+        });
+      }
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key= AIzaSyDB_IPkR4jl-p5E7cWLOD62TPb_W9Z9cc8callback=initMap">
