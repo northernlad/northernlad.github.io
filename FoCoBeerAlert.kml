@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="feat_992">
-        <Style id="stylesel_251">
-            <IconStyle id="substyle_251">
+    <Document id="feat_12">
+        <Style id="stylesel_1">
+            <IconStyle id="substyle_1">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_251">
+                <Icon id="link_1">
                     <href>http://northernlad.github.io/beericon.png</href>
                 </Icon>
             </IconStyle>
@@ -17,184 +17,184 @@
             </BalloonStyle>
         </Style>
         <name>FoCoBeerAlert</name>
-        <Placemark id="feat_993">
-            <name>
-<![CDATA[Three Four Beer Co]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
-            <ExtendedData>
-                <Data name="rating">
-                    <value>4.02</value>
-                </Data>
-                <Data name="directions">
-                    <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.575098,-105.096589]]>                    </value>
-                    <displayName>Get Directions</displayName>
-                </Data>
-            </ExtendedData>
-            <Point id="geom_896">
-                <coordinates>-105.096589,40.575098,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_994">
+        <Placemark id="feat_13">
             <name>
 <![CDATA[Choice City Butcher & Deli]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.99</value>
+                    <value>4.04</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.584401,-105.077669]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.584401,-105.077669]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_897">
+            <Point id="geom_10">
                 <coordinates>-105.077669,40.584401,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_995">
+        <Placemark id="feat_14">
+            <name>
+<![CDATA[Three Four Beer Co]]>            </name>
+            <styleUrl>#stylesel_1</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>4.03</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.575098,-105.096589]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_11">
+                <coordinates>-105.096589,40.575098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
             <name>
 <![CDATA[Tap n Handle]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.97</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.583748,-105.077442]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.583748,-105.077442]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_898">
+            <Point id="geom_12">
                 <coordinates>-105.077442,40.583748,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_996">
+        <Placemark id="feat_16">
             <name>
 <![CDATA[The Funkwerks Brewery Taproom]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.93</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.583228,-105.042328]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.583228,-105.042328]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_899">
+            <Point id="geom_13">
                 <coordinates>-105.042328,40.583228,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_997">
+        <Placemark id="feat_17">
             <name>
 <![CDATA[The Mayor of Old Town]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.89</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.578904,-105.0787]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.578904,-105.0787]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_900">
+            <Point id="geom_14">
                 <coordinates>-105.0787,40.578904,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_998">
-            <name>
-<![CDATA[The Forge Publick House]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
-            <ExtendedData>
-                <Data name="rating">
-                    <value>3.85</value>
-                </Data>
-                <Data name="directions">
-                    <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.588924,-105.075502]]>                    </value>
-                    <displayName>Get Directions</displayName>
-                </Data>
-            </ExtendedData>
-            <Point id="geom_901">
-                <coordinates>-105.075502,40.588924,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_999">
+        <Placemark id="feat_18">
             <name>
 <![CDATA[The Jessup Farm Barrel House]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.85</value>
+                    <value>3.86</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.562152,-105.037924]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.562152,-105.037924]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_902">
+            <Point id="geom_15">
                 <coordinates>-105.037924,40.562152,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_1000">
+        <Placemark id="feat_19">
             <name>
 <![CDATA[The Mainline]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.85</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.586441,-105.077232]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.586441,-105.077232]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_903">
+            <Point id="geom_16">
                 <coordinates>-105.077232,40.586441,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_1001">
+        <Placemark id="feat_20">
             <name>
-<![CDATA[The Colorado Room]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+<![CDATA[The Forge Publick House]]>            </name>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.84</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.578547,-105.07684]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.588924,-105.075502]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_904">
-                <coordinates>-105.07684,40.578547,0.0</coordinates>
+            <Point id="geom_17">
+                <coordinates>-105.075502,40.588924,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_1002">
+        <Placemark id="feat_21">
             <name>
 <![CDATA[The Odell Brewing Tap Room]]>            </name>
-            <styleUrl>#stylesel_251</styleUrl>
+            <styleUrl>#stylesel_1</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.84</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.589121,-105.063188]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.589121,-105.063188]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_905">
+            <Point id="geom_18">
                 <coordinates>-105.063188,40.589121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>
+<![CDATA[The Colorado Room]]>            </name>
+            <styleUrl>#stylesel_1</styleUrl>
+            <ExtendedData>
+                <Data name="rating">
+                    <value>3.83</value>
+                </Data>
+                <Data name="directions">
+                    <value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.578547,-105.07684]]>                    </value>
+                    <displayName>Get Directions</displayName>
+                </Data>
+            </ExtendedData>
+            <Point id="geom_19">
+                <coordinates>-105.07684,40.578547,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

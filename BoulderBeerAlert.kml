@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="feat_981">
-        <Style id="stylesel_250">
-            <IconStyle id="substyle_250">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <IconStyle id="substyle_0">
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="link_250">
+                <Icon id="link_0">
                     <href>http://northernlad.github.io/beericon.png</href>
                 </Icon>
             </IconStyle>
@@ -17,183 +17,183 @@
             </BalloonStyle>
         </Style>
         <name>BoulderBeerAlert</name>
-        <Placemark id="feat_982">
+        <Placemark id="feat_2">
             <name>
 <![CDATA[Backcountry Pizza & Tap House]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>4.08</value>
+                    <value>4.07</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.01493,-105.264121]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.01493,-105.264121]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_886">
+            <Point id="geom_0">
                 <coordinates>-105.264121,40.01493,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_983">
+        <Placemark id="feat_3">
             <name>
 <![CDATA[Avery Brewing]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.99</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.062492,-105.204974]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.062492,-105.204974]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_887">
+            <Point id="geom_1">
                 <coordinates>-105.204974,40.062492,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_984">
+        <Placemark id="feat_4">
             <name>
 <![CDATA[West End Tavern]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.91</value>
+                    <value>3.85</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.016997,-105.283247]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.016997,-105.283247]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_888">
+            <Point id="geom_2">
                 <coordinates>-105.283247,40.016997,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_985">
+        <Placemark id="feat_5">
             <name>
 <![CDATA[Rueben's Burger Bistro]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.89</value>
+                    <value>3.84</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.016434,-105.27906]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.016434,-105.27906]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_889">
+            <Point id="geom_3">
                 <coordinates>-105.27906,40.016434,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_986">
+        <Placemark id="feat_6">
             <name>
 <![CDATA[The Upslope Brewery - Flatiron Park]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.79</value>
+                    <value>3.78</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.020162,-105.218171]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.020162,-105.218171]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_890">
+            <Point id="geom_4">
                 <coordinates>-105.218171,40.020162,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_987">
+        <Placemark id="feat_7">
             <name>
 <![CDATA[The Upslope Brewery - Lee Hill]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.75</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.062856,-105.279196]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.062856,-105.279196]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_891">
+            <Point id="geom_5">
                 <coordinates>-105.279196,40.062856,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_988">
+        <Placemark id="feat_8">
             <name>
 <![CDATA[Mountain Sun Pub & Brewery]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.72</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.019151,-105.275291]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.019151,-105.275291]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_892">
+            <Point id="geom_6">
                 <coordinates>-105.275291,40.019151,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_989">
+        <Placemark id="feat_9">
             <name>
 <![CDATA[Southern Sun Pub & Brewery]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.71</value>
+                    <value>3.69</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=39.984318,-105.249369]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=39.984318,-105.249369]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_893">
+            <Point id="geom_7">
                 <coordinates>-105.249369,39.984318,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_990">
+        <Placemark id="feat_10">
             <name>
 <![CDATA[West Flanders Brewing Company]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
-                    <value>3.7</value>
+                    <value>3.69</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.018046,-105.280711]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.018046,-105.280711]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_894">
+            <Point id="geom_8">
                 <coordinates>-105.280711,40.018046,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="feat_991">
+        <Placemark id="feat_11">
             <name>
 <![CDATA[Sanitas Brewing Company]]>            </name>
-            <styleUrl>#stylesel_250</styleUrl>
+            <styleUrl>#stylesel_0</styleUrl>
             <ExtendedData>
                 <Data name="rating">
                     <value>3.68</value>
                 </Data>
                 <Data name="directions">
                     <value>
-<![CDATA[ https://www.google.com/maps?saddr=My+Location&daddr=40.02208,-105.248049]]>                    </value>
+<![CDATA[ http://maps.google.com/maps?saddr=My+Location&daddr=40.02208,-105.248049]]>                    </value>
                     <displayName>Get Directions</displayName>
                 </Data>
             </ExtendedData>
-            <Point id="geom_895">
+            <Point id="geom_9">
                 <coordinates>-105.248049,40.02208,0.0</coordinates>
             </Point>
         </Placemark>
